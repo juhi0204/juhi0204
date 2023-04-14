@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 
 
-<h1 align="center">I'm Shubham Bhati</h1>
+<h1 align="center">I'm Juhi Kumari</h1>
 
 <h3 align = "center"><img src="https://readme-typing-svg.herokuapp.com?color=%23F7F7F7&size=21&center=true&vCenter=true&width=650&height=100&lines=A+Student+%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%8E%93+and+a+Programming+Enthusiast+%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB+from+India"></h3>
 
@@ -48,7 +48,7 @@ Here are some ideas to get you started:
 
 - 🔄 Routine : **Eat - Sleep - Code - Repeat.**
 
-- 📫 How to reach me **shubhambhati226@gmail.com**
+- 📫 How to reach me **kumarijuhi0204@gmail.com**
 <!--  -->
 - ⚡ Coding fact: "There are over 700 different programming languages".
 
