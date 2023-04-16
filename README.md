@@ -37,22 +37,24 @@ Here are some ideas to get you started:
 
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
--  🌱 I love to learn to code in differnt languages.
+-  🥅 Goals: Contribute more to Open Source projects in 2023, Learn DSA and competitive programming.
 
 -  👨🏽‍💻 Currently , learning and growing my skillset in deep learning , **competitive coding , data structures and algorithms**.
 
-- 👥 I’m looking forward to collaborate on open source projects.🌟
+-  👥 I’m looking forward to collaborate on open source projects.🌟
 
-- 💬 Ask me about anything, I am happy to help.  
+-  💬 Ask me about anything, I am happy to help.  
 <!-- - , only if the ball is in my court!😉 -->
 
-- 🔄 Routine : **Eat - Sleep - Code - Repeat.**
+-  🔄 Routine : **Eat - Sleep - Code - Repeat.**
 
-- 📫 How to reach me **kumarijuhi0204@gmail.com**
+-  📫 How to reach me **kumarijuhi0204@gmail.com**
 <!--  -->
-- ⚡ Coding fact: "There are over 700 different programming languages".
+-  ⚡ Coding fact: "There are over 700 different programming languages".
 
-- 💪🏼 Fav Quote: "Great Developers never stop learning".
+-  💪🏼 Fav Quote: "Great Developers never stop learning".
+
+-  🌟 Motivation: " Talent is cheaper than table salt. What separates the talented individual from the successful one is a lot of hard work".
 
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=jwenjian.visitor-badge)
 <!--  -->
@@ -61,7 +63,7 @@ Here are some ideas to get you started:
 
 ##  <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/linkedin.com/in/shubham-bhati-787319213" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/shubham-bhati-787319213" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/juhi-k-450901180/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/juhi-k-450901180/" height="30" width="40" /></a>
 </p>
 
 <br>
@@ -80,17 +82,17 @@ Here are some ideas to get you started:
 <!-- ## <img src="https://raw.githubusercontent.com/marcos-inja/marcos-inja/main/gifs/haha.gif" width="25px"> **Github stats** -->
 
 <p align="center">
-<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="7oSkaaa's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Shubh2-0&show_icons=true&count_private=true&theme=algolia&bg_color=0,000000,130F40&layout=compact&border_radius=10" height="200px"/></a>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="7oSkaaa's Github Stats" src="https://github-readme-stats.vercel.app/api?username=juhi0204&show_icons=true&count_private=true&theme=algolia&bg_color=0,000000,130F40&layout=compact&border_radius=10" height="200px"/></a>
 
  
  
   <br>
    
-  <img alt="status github, commits, etc..." width="500px" src="https://github-readme-streak-stats.herokuapp.com/?user=shubh2-0&count_private=true&show_icons=true&custom_title=Github&theme=algolia&bg_color=0,000000,130F40&layout=compact&border_radius=8"/>
+  <img alt="status github, commits, etc..." width="500px" src="https://github-readme-streak-stats.herokuapp.com/?user=juhi0204&count_private=true&show_icons=true&custom_title=Github&theme=algolia&bg_color=0,000000,130F40&layout=compact&border_radius=8"/>
  
   <br>
  
-<img alt="most used languages" width="500px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shubh2-0&count_private=true&theme=algolia&bg_color=0,000000,130F40&layout=compact&border_radius=8&langs_count=20&hide=hack,swift,kotlin,objective-c"/>
+<img alt="most used languages" width="500px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juhi0204&count_private=true&theme=algolia&bg_color=0,000000,130F40&layout=compact&border_radius=8&langs_count=20&hide=hack,swift,kotlin,objective-c"/>
 
 </p>
 <!-- ## 🏆 GitHub Trophies -->
@@ -110,7 +112,7 @@ Here are some ideas to get you started:
 
  ## Look at this snake eating up my contributions! <img src= "https://c.tenor.com/BczFoyx41WoAAAAj/swallowed-the-mighty-ones.gif" width= "30" height= "30">  :
 
-![](https://github.com/Shubh2-0/snk/raw/output/github-contribution-grid-snake.svg)
+![](https://github.com/juhi0204/snk/raw/output/github-contribution-grid-snake.svg)
 <!-- https://github-profile-trophy.vercel.app/?username=Shubh2-0&theme=onedark -->
 
 
