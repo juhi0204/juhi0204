@@ -112,7 +112,7 @@ Here are some ideas to get you started:
 
  ## Look at this snake eating up my contributions! <img src= "https://c.tenor.com/BczFoyx41WoAAAAj/swallowed-the-mighty-ones.gif" width= "30" height= "30">  :
 
-![](https://github.com/juhi0204/snk/raw/output/github-contribution-grid-snake.svg)
+![](https://github.com/Shubh2-0/snk/raw/output/github-contribution-grid-snake.svg)
 <!-- https://github-profile-trophy.vercel.app/?username=Shubh2-0&theme=onedark -->
 
 
